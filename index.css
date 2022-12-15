@@ -5,6 +5,12 @@ header{
 nav li{
     display: inline;
     text-transform: uppercase;
-    font-weight: 30px;
-    padding: 140px;
+    font-weight: solid;
+    font-size: 30px;
+    padding: 150px;
+}
+
+body{
+    background-color: rgb(2, 2, 2);
+    color: aliceblue;
 }
